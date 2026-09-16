@@ -10,5 +10,5 @@ orientation = portrait
 fullscreen = 0
 android.api = 35
 android.minapi = 21
-android.ndk_path = 
-android.sdk_path = 
+android.sdk = 35
+android.ndk = 28c
